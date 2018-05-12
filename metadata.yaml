@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '36176'
     url: http://www.gutenberg.org/2009/agents/36176
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33029#Ducks-and-Geese
 gutenberg_bookshelf:
 - Animal
 - Animals-Wild-Birds
