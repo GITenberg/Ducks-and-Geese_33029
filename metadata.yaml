@@ -1,0 +1,37 @@
+_repo: Ducks-and-Geese_33029
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Lamon, Harry M.
+    alias: Lamon, Harry Miles
+    birthdate: 1872
+    gutenberg_agent_id: '36175'
+    url: http://www.gutenberg.org/2009/agents/36175
+  - agent_name: Slocum, Rob R. (Rob Roy)
+    alias: Slocum, Rob Roy
+    birthdate: 1883
+    deathdate: 1944
+    gutenberg_agent_id: '36176'
+    url: http://www.gutenberg.org/2009/agents/36176
+description: ''
+gutenberg_bookshelf:
+- Animal
+- Animals-Wild-Birds
+gutenberg_issued: '2010-06-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33029'
+  lccn: '23000467'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Geese'
+- !lcc 'SF'
+- !lcsh 'Ducks'
+title: Ducks and Geese
+url: http://www.gutenberg.org/ebooks/33029
